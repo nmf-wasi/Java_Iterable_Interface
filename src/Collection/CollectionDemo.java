@@ -35,6 +35,5 @@ public class CollectionDemo {
         other.addAll(collection);
         System.out.println(collection==other); // are different objs in memory, so false
         System.out.println(collection.equals(other)); // true cause this checks items in memory
-
     }
 }
