@@ -1,0 +1,5 @@
+If we use iterable class, we can custom define how to iterate over the object list/array
+
+if we are going to use iterable class, we need to implement Iterator class as well, where we define how to iterate
+
+Later, if we change the Array to an ArrayList or a Linked List, we can just change the implementation of hasNext() and next() and other things do not need to be changed.
