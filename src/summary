@@ -1,2 +1,2 @@
-Queue :
-    mainly used: priority queue, Deque
+Set :
+    has no order and no duplicates
