@@ -1,3 +1,2 @@
-Comparable Interface lets u compare between 2 objs
-
-When implementing, Override public int compareTo method and it will be able to compare between 2 objs
+Queue :
+    mainly used: priority queue, Deque
