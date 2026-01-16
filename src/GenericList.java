@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class GenericList<T> {
 //    public T[] items=(T[]) new Object[10];
-    public ArrayList<T> items= (T[]) new ArrayList<T>();
+    public ArrayList<T> items= (T[])new Object[10];
     private  int count;
 
     public void add(T item){
